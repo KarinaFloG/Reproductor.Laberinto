@@ -1,0 +1,5 @@
+gcc -Wall -std=c99 -o cajero.out cajero.c
+
+
+
+./cajero.out

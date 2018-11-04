@@ -1,0 +1,4 @@
+gcc -Wall -std=c99 -o reproductor.out reproductor.c
+
+
+./reproductor.out
